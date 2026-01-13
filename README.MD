@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Chatbot
+#  Restaurant Chatbot
 
 ## Overview
 The Restaurant Chatbot is a conversational assistant designed to provide quick and accurate information to restaurant customers. It helps users access menu details, pricing, availability, offers, and restaurant timings through a simple chat interface, improving customer experience and reducing manual workload.
