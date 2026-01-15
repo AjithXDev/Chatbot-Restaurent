@@ -13,18 +13,10 @@ The Restaurant Chatbot is a conversational assistant designed to provide quick a
 ## Technologies Used
 - Python  
 - Flask / FastAPI  
-- Rule-based or basic NLP logic  
-- JSON / SQLite for data storage  
+- RAG
 
 ## Working Principle
 User inputs are processed using predefined logic or intent matching, and appropriate responses are generated in real time based on available restaurant data.
-
-## Future Enhancements
-- AI and NLP-based intelligent responses  
-- Online food ordering integration  
-- Multi-language support  
-- Voice-enabled chatbot  
-
 
 
 ## License
